@@ -17,7 +17,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/francostan/Itesa-viral-p5">
+  <a href="https://github.com/martin0995/itesa-getViral">
     <img src="https://miro.medium.com/max/664/1*z6r1ufq-iAqcOZeNZ3PGIQ.png" alt="Logo" width="80" height="80">
   </a>
 
